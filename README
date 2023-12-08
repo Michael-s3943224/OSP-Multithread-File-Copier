@@ -1,0 +1,8 @@
+In this directory, compile copier with: make copier
+In this directory, run copier with: ./copier <infile> <outfile> <optional -t>
+
+Do the same with mtcopier:
+run mtcopier: ./mtcopier <#threads> <infile> <outfile> <optional -t>
+
+Do the same with bmtcopier:
+run bmtcopier: ./btmcopier <#threads> <infile> <outfile> <optional -t>
